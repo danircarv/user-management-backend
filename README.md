@@ -1,6 +1,5 @@
 
-README para Projeto de Cadastro de Usuário (Back-end)
-Descrição:
+
 
 Este projeto fornece um back-end completo para gerenciamento de usuários em sua aplicação. Ele inclui funcionalidades como:
 
