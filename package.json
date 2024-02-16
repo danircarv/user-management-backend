@@ -1,7 +1,7 @@
 {
   "name": "user-register-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Endpoint backend para gerenciar o cadastro de usuários",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
